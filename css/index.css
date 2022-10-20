@@ -1,0 +1,99 @@
+@font-face {
+    font-family :  'Roboto Mono' ;
+    src :  url (https://fonts.google.com/specimen/Roboto+Mono);
+}
+    {
+    font-family :  'Roboto Mono' , sem serifa;
+    box-sizing : content-box;
+    exibição : flexível;
+    justificar-itens : centro;
+    justificar-conteúdo : centro;
+    cor de fundo :  # F5F5F5 ;
+}
+
+html body{
+    background-color:rgb(179, 94, 210)
+h1 {
+    font-family :  'Roboto Mono' , sem serifa;
+    cor : branco;
+    justificar-conteúdo : centro;
+    align-items : centro;
+    justificar-itens : centro;
+    preenchimento :  2 % ;
+}
+
+. recipiente {
+    exibição : flexível;
+    flex-direction : coluna;
+    justificar-itens : centro;
+    justificar-conteúdo : centro;
+    align-items : centro;
+    margem :  50 px automático;
+    preenchimento :  5 % ;
+    largura : automático;
+}
+
+# código {
+    margem :  10px ; _
+}
+
+. divChave {
+    exibição : nenhum;
+    alinhar-conteúdo : centro;
+    justificar-conteúdo : centro;
+    justificar-itens : centro;
+}
+
+formulário {
+    exibição : flexível;
+    background-color: antiquewhite  ( 255 ,  255 ,  255 ,  0,3 );
+    flex-direction : coluna;
+    alinhar-conteúdo : centro;
+    justificar-itens : centro;
+    justificar-conteúdo : centro;
+    margem :  10px ; _
+    preenchimento :  5 % ;
+    borda :  1 px branco sólido;
+    raio da borda :  5 px ;
+    box-shadow :  8 px  8 px  8 px  8 px  rgb ( 0  0  0  /  20 % );
+}
+
+. radioCod {
+    exibição : flexível;
+    flex-direction : linha;
+    flex- wrap : wrap;
+    justificar-conteúdo : espaçar uniformemente;
+    margem :  10px ; _
+}
+
+# botaoResultado {
+    exibição : nenhum;
+    align-self : centro;
+    justificar-conteúdo : centro;
+    align-items : centro;
+    largura :  100 % ;
+    margem :  20px ; _
+}
+
+. rodapé {
+    posição : fixo;
+    esquerda :  0 ;
+    inferior :  0 ;
+    largura :  100 % ;
+    cor de fundo :
+    cor : preto;
+    text-align : centro;
+    align-items : centro;
+    justificar-conteúdo : centro;
+}
+
+.ac_box { width: 350px; }
+.ac_box_top { border: 4px solid white; border-bottom: none; margin-left: 4px; 
+    height: 9px; width: 200x; }
+.ac_box_cont { border-left: 6px solid white; border-right: 12px solid white;
+     border-bottom: 12px solid white; height: 150px; padding: 5px 0; }
+     
+. rodapé  a {
+    margem :  10px ; _
+}
+
